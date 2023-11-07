@@ -23,4 +23,8 @@ vim.opt.completeopt = 'menuone,noselect'
 vim.opt.updatetime = 250
 vim.opt.timeoutlen = 300
 
+-- 2 space tabs
+vim.opt.tabstop = 2
 
+-- 2 space indentations
+vim.opt.shiftwidth = 2
